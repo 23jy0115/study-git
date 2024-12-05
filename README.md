@@ -79,3 +79,6 @@ git pull
 
 > [!CAUTION]
 > もし、githubのリポジトリに誰が変更を加えたまま、pullしないと...**競合が発生**してしまう <- めっちゃ直すのだるいから回避しよう!
+
+- **VScodeに入れておくと便利なもの**
+[git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
