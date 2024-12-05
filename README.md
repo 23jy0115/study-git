@@ -1,3 +1,5 @@
+# git / githubを学ぼう!!
+
 ## git 設定
 - usernameの設定
 ```bash
