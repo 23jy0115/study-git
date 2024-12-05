@@ -1,5 +1,14 @@
 # git / githubを学ぼう!!
 
+## 学習前に
+
+- **VScodeに入れておくと便利なもの**
+[git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+
+- PDFにイメージしやすいように図が載ってあります
+
+- :rotating_light:*ここでは基本を押さえるだけで、margeは取り扱いません*
+
 ## git 設定
 - usernameの設定
 ```bash
@@ -60,6 +69,9 @@ git push <リモート名> <ブランチ名>
 > [!IMPORTANT]
 > ### 基本1でpushしたgithubのリポジトリに誰が変更を加えた時 -> githubのリポジトリと情報を一致させる
 
+> [!CAUTION]
+> もし、githubのリポジトリに誰が変更を加えたまま、一致させないと...**競合が発生**してしまう <- めっちゃ直すのだるいから回避しよう!
+
 2-1. **cloneしてきたフォルダに移動する**
 ```bash
 cd <cloneしてきたフォルダのパス> 
@@ -77,8 +89,3 @@ git pull
 
 2-4. 以降は基本の1-5と一緒
 
-> [!CAUTION]
-> もし、githubのリポジトリに誰が変更を加えたまま、pullしないと...**競合が発生**してしまう <- めっちゃ直すのだるいから回避しよう!
-
-- **VScodeに入れておくと便利なもの**
-[git-graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
