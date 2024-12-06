@@ -11,6 +11,14 @@
 
 - :rotating_light:*分かりやすくするために、正式な名称と異なているかも。。。*
 
+## PCの 設定
+
+### WINDOWSの場合
+- [Git for windows](https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/Git-2.47.1-64-bit.exe) をダウンロードしよう
+
+### MACの場合
+- ＊ Macにはgitが入っているので特に設定はないです
+
 ## git 設定
 - usernameの設定
 ```bash
