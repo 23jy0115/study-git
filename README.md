@@ -68,6 +68,15 @@ git commit -m 'コメント'
 git push <リモート名> <ブランチ名>
 ```
 
+＊リモート名の確認方法
+```bash
+git remote -v
+```
+＊ブランチ名の確認方法
+```bash
+git branch --contains
+```
+
 > [!IMPORTANT]
 > ### 基本1でpushしたgithubのリポジトリに誰が変更を加えた時 -> githubのリポジトリと情報を一致させる
 
