@@ -9,6 +9,8 @@
 
 - :rotating_light:*ここでは基本を押さえるだけで、margeは取り扱いません*
 
+- :rotating_light:*分かりやすくするために、正式な名称と異なているかも。。。*
+
 ## git 設定
 - usernameの設定
 ```bash
